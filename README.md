@@ -17,4 +17,4 @@ http://localhost:5000/endereco/69006800
 
 Retorno:
 
-{"CEP":"69006800","Cidade":"Manaus","Complemento":"Jorge Teixeira","Estado":"AM"}
+{"Bairro":"Jorge Teixeira","CEP":"69006800","Cidade":"Manaus","Complemento":"Rua da Prata\n","Estado":"AM"}
