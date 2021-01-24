@@ -7,5 +7,6 @@ Em breve, será implementado também para SQLite.
 
 Para usar, é necessário restaurar o backup do banco com os endereços e realizar a instalação do FLASK e o conector do MySQL:
 
-pip install flask flask-jsonpify flask-sqlalchemy flask-restful
-pip install mysql-connector-python
+$ pip install flask flask-jsonpify flask-sqlalchemy flask-restful
+
+$ pip install mysql-connector-python
