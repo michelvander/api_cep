@@ -10,3 +10,11 @@ Para usar, é necessário restaurar o backup do banco com os endereços e realiz
 $ pip install flask flask-jsonpify flask-sqlalchemy flask-restful
 
 $ pip install mysql-connector-python
+
+Exemplo de uso, chamando a API via GET:
+
+http://localhost:5000/endereco/69006800
+
+Retorno:
+
+{"CEP":"69006800","Cidade":"Manaus","Complemento":"Jorge Teixeira","Estado":"AM"}
