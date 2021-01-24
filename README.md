@@ -18,3 +18,6 @@ http://localhost:5000/endereco/69006800
 Retorno:
 
 {"Bairro":"Jorge Teixeira","CEP":"69006800","Cidade":"Manaus","Complemento":"Rua da Prata\n","Estado":"AM"}
+
+
+Obs.: configurar conexão com o banco de dados através do arquivo 'api.config',
