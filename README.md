@@ -1,5 +1,5 @@
 # api_cep
-API simples para consulta de CEP
+API para consulta de CEP
 
 A aplicação foi totalmente escrita em Python. O banco utilizado é o MySql.
 
